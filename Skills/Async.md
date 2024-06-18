@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop k
-  - `try..catch` u
-  - Non-blocking k
-  - Async I/O k
+  - Event loop: 🎓 known
+  - `try..catch`: 🖐️ used
+  - Non-blocking: 🎓 known
+  - Async I/O: 🎓 known
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -12,33 +12,33 @@
   - kqueue
   - Completion ports
   - Event ports
-  - libuv h
+  - libuv: 👂 heard
   - Race conditions
   - Dead locks
   - Live locks
-  - Concurrent programming h
-  - Parallel programming h
-  - Actor Model h
-  - Thread h
-  - Process k
+  - Concurrent programming: 👂 heard
+  - Parallel programming: 👂 heard
+  - Actor Model: 👂 heard
+  - Thread: 👂 heard
+  - Process: 🎓 known
 - Async contracts
-  - Callbacks u
+  - Callbacks: 🖐️ used
   - Callback-last-error-first
   - Thenable
-  - Promise u
-  - Async/await u
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event u
-  - Coroutine h
+  - Event: 🖐️ used
+  - Coroutine: 👂 heard
   - Goroutine
   - Signal
-  - Stream u
+  - Stream: 🖐️ used
   - Chain of responsibility
-  - Middleware u
+  - Middleware: 🖐️ used
   - Locks
 - Async adapters and utils
   - callbackify
@@ -49,9 +49,9 @@
 - Async abstractions interfaces
   - EventEmitter
   - Observable/Observer
-  - Readable k
-  - Writable k
-  - Transform k
+  - Readable: 🎓 known
+  - Writable: 🎓 known
+  - Transform: 🎓 known
   - Async Pool
   - Async Queue
   - Async Collector
@@ -60,16 +60,16 @@
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers
-  - `setImmediate` u
-  - `nextTick` u
+  - `setImmediate`: 🖐️ used
+  - `nextTick`: 🖐️ used
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
   - Atomics
   - High resolution clock
-  - Callback hell h
-  - Promise hell h
+  - Callback hell: 👂 heard
+  - Promise hell: 👂 heard
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await

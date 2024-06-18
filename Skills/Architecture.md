@@ -1,19 +1,19 @@
 ## Architecture
 
 - Application structure
-  - Modularity h
-  - Components u
-  - Directories h
-  - GRASP h
-  - SOLID h
-  - GoF patterns h
+  - Modularity: 👂 heard
+  - Components: 🖐️ used
+  - Directories: 👂 heard
+  - GRASP: 👂 heard
+  - SOLID: 👂 heard
+  - GoF patterns: 👂 heard
   - CQS
   - Leaking abstractions
   - Multiparadigm code
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
-  - Framework-agnostic k
+  - Framework-agnostic: 🎓 known
   - Code coverage
   - Cohesion
   - Coupling
@@ -24,7 +24,7 @@
   - Flexibility
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer h
+  - Isolation between layer: 👂 heard
   - Domain-specific language (DSL)
   - System vs applied code
   - Multilayer approach
@@ -32,7 +32,7 @@
   - Separation of concerns (SoC)
   - Metaprogramming
   - Inversion of control (IoC)
-  - Dependency injection (DI) h
+  - Dependency injection (DI): 👂 heard
   - Clean architecture
   - Domain-driven design (DDD)
   - Pub/sub
@@ -56,8 +56,8 @@
   - IaaS
   - PaaS
   - SaaS
-  - FaaS clouds 
-  - Serverless h
+  - FaaS clouds
+  - Serverless: 👂 heard
   - Vendor lock-in
   - Bus factor
 - Solution architecture
@@ -70,25 +70,25 @@
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds h
+  - Clouds: 👂 heard
   - BPMN
-  - Low-code h
-  - No-code h
+  - Low-code: 👂 heard
+  - No-code: 👂 heard
   - Metric
   - Metric abuse
   - ACID
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs k
-  - Enterprise strategy k
+  - Understanding business needs: 🎓 known
+  - Enterprise strategy: 🎓 known
   - Integration with subsystems
-  - Enterprise vision k
+  - Enterprise vision: 🎓 known
   - Enterprise capabilities
-  - Project scope 
+  - Project scope
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices h
+  - Microservices: 👂 heard
   - Process choreography
   - Service orchestration
   - Data warehouse

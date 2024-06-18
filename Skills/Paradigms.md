@@ -1,25 +1,25 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming h
-  - Imperative programming h
-  - Structured programming h
-  - Non-structured programming h
-  - Functional programming h
-  - Prototype-based programming h
-  - Object-oriented programming h
-  - Object-based programming h
-  - Generic programming h
-  - Concurrent computing h
-  - Asynchronous programming h
+  - Procedural programming: 👂 heard
+  - Imperative programming: 👂 heard
+  - Structured programming: 👂 heard
+  - Non-structured programming: 👂 heard
+  - Functional programming: 👂 heard
+  - Prototype-based programming: 👂 heard
+  - Object-oriented programming: 👂 heard
+  - Object-based programming: 👂 heard
+  - Generic programming: 👂 heard
+  - Concurrent computing: 👂 heard
+  - Asynchronous programming: 👂 heard
   - Parallel programming
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
   - Multi-paradigm programming
-  - Metaprogramming h
-  - Actor model h
+  - Metaprogramming: 👂 heard
+  - Actor model: 👂 heard
   - Lambda calculus
   - Black box
   - Information hiding
@@ -27,24 +27,24 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor h
-  - Operator `new` u
-  - Static method h
+  - Constructor: 👂 heard
+  - Operator `new`: 🖐️ used
+  - Static method: 👂 heard
   - Method
   - Async method
-  - Getters, Setters h
-  - Public fields h
-  - Private fields h
+  - Getters, Setters: 👂 heard
+  - Public fields: 👂 heard
+  - Private fields: 👂 heard
   - Field declarations
-  - Inheritance h
-  - Parent class h
+  - Inheritance: 👂 heard
+  - Parent class: 👂 heard
   - Polymorphism
   - Abstract class
-  - Interface u
+  - Interface: 🖐️ used
   - Encapsulation
   - Hidden class
   - Object form
-  - Instance 
+  - Instance
   - Introspection
   - Reflection
   - The diamond problem
@@ -58,18 +58,18 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP) h
-  - Open–closed principle (OCP) h
-  - Liskov substitution principle (LSP) h
-  - Interface segregation principle (ISP) h
-  - Dependency inversion principle (DIP) h
+  - Single-responsibility principle (SRP): 👂 heard
+  - Open–closed principle (OCP): 👂 heard
+  - Liskov substitution principle (LSP): 👂 heard
+  - Interface segregation principle (ISP): 👂 heard
+  - Dependency inversion principle (DIP): 👂 heard
 - Patterns
-  - Singleton h
-  - Factory Method h
-  - Abstract Factory h
-  - Adapter h
-  - Observer h
-  - Strategy h
+  - Singleton: 👂 heard
+  - Factory Method: 👂 heard
+  - Abstract Factory: 👂 heard
+  - Adapter: 👂 heard
+  - Observer: 👂 heard
+  - Strategy: 👂 heard
   - Facade
   - Proxy
   - Chain of Responsibility
@@ -80,7 +80,7 @@
   - Builder
   - Prototype
   - Composite
-  - Decorator h
+  - Decorator: 👂 heard
   - Flyweight
   - Mediator
   - Memento

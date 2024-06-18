@@ -3,7 +3,7 @@
 - Theory and concepts
   - Data types
   - Performance tuning
-  - Migrations 
+  - Migrations
   - Schema versioning
   - Backup and recovery
   - Database scalability
@@ -23,12 +23,12 @@
   - Data query language (DQL)
 - Relational
   - Entity-Relationship Diagram
-  - Normal forms h
-  - Indexing h
-  - Primary keys h
-  - Foreign keys h
+  - Normal forms: 👂 heard
+  - Indexing: 👂 heard
+  - Primary keys: 👂 heard
+  - Foreign keys: 👂 heard
   - Transactions
-  - Views h
+  - Views: 👂 heard
   - Subqueries
   - Stored procedures
   - SQL functions
@@ -36,31 +36,31 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT` k
+  - `SELECT`: 🎓 known
   - `INSERT`
   - `UPDATE`
-  - `DELETE` k
+  - `DELETE`: 🎓 known
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY` k
-  - `GROUP BY` k
+  - `ORDER BY`: 🎓 known
+  - `GROUP BY`: 🎓 known
   - `HAVING`
   - `EXISTS`
-  - `JOIN` k
+  - `JOIN`: 🎓 known
   - `INNER JOIN`
   - `LEFT JOIN`
   - `RIGHT JOIN`
   - `UNION`
   - `DISTINCT`
-  - `WHERE` k
+  - `WHERE`: 🎓 known
   - `LIKE`
-  - `IN` k
+  - `IN`: 🎓 known
   - `BETWEEN`
-  - `CREATE TABLE` k
+  - `CREATE TABLE`: 🎓 known
   - `ALTER TABLE`
   - `DROP TABLE`
-  - `PRIMARY KEY` k
-  - `FOREIGN KEY` k
+  - `PRIMARY KEY`: 🎓 known
+  - `FOREIGN KEY`: 🎓 known
   - `CHECK`
   - `DEFAULT`
   - `INDEX`
@@ -70,20 +70,20 @@
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL h
-  - Oracle h
-  - MySQL h
-  - MariaDB h
-  - MS SQL Server h
-  - Redis h
-  - Rabbit h
-  - MongoDB h
+  - PostgreSQL: 👂 heard
+  - Oracle: 👂 heard
+  - MySQL: 👂 heard
+  - MariaDB: 👂 heard
+  - MS SQL Server: 👂 heard
+  - Redis: 👂 heard
+  - Rabbit: 👂 heard
+  - MongoDB: 👂 heard
   - Memcached
   - Riak
   - DB2
-  - SQLite h
-  - DynamoDB h
-  - Firebase h
+  - SQLite: 👂 heard
+  - DynamoDB: 👂 heard
+  - Firebase: 👂 heard
 - Data engineering
   - Data warehousing
   - Business intelligence
