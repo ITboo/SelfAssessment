@@ -1,46 +1,46 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
+  - Strong and weak sides of node.js k
   - Stateful and stateless servers
-  - Nonblocking I/O and blocking code
-  - Event loop phases
-  - Event loop microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
+  - Nonblocking I/O and blocking code k
+  - Event loop phases h
+  - Event loop microtasks and macrotasks h
+  - Garbage collection h
+  - Node.js LTS schedule k
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - Module `node:module`
+  - CommonJS modules k
+  - ECMAScript modules u
+  - Module `node:module` u
   - Caching in CJS and ESM
-  - Modules as singletons
+  - Modules as singletons k
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Dependencies: `npm`, `node_modules` u
+  - Files `package.json`, `package-lock.json` u
   - Module-based permissions model
-  - Isolation with modularity
-  - Dependency injection
+  - Isolation with modularity k
+  - Dependency injection h
   - DI containers
   - Coupling and cohesion
-  - Framework agnostic approach
+  - Framework agnostic approach k
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments u
+  - Node.js CLI u
   - Process-based permissions
   - Graceful shutdown
-  - Clustering
-  - Watch filesystem changes with --watch
+  - Clustering h
+  - Watch filesystem changes with --watch u
 - Internal API
-  - Streams API
+  - Streams API u
   - Web Streams API
-  - Crypto API
-  - Password hashing with crypto.scrypt
+  - Crypto API u
+  - Password hashing with crypto.scrypt u
   - Web Crypto API
-  - File system API (sync and async)
-  - Copy folder recursively
-  - Worker threads
+  - File system API (sync and async) u
+  - Copy folder recursively u
+  - Worker threads u
   - Performance hooks
   - Native fetch and nodejs/undici
   - async_hooks
@@ -49,42 +49,42 @@
   - Deprecated domain API
   - Node.js single executable
   - SharedArrayBuffer
-  - Module `node:worker_threads`
-  - Module `node:child_process`
+  - Module `node:worker_threads` u
+  - Module `node:child_process` u
   - MessageChannel, MessagePort
   - BroadcastChannel
-  - Generating crypto random UUID
-  - Module `node:url` vs `new URL`
-  - Module `node:assert`
+  - Generating crypto random UUID u
+  - Module `node:url` vs `new URL` u
+  - Module `node:assert` 
   - Internationalization
   - Blob, File, Buffer, module `node:buffer`
-  - Module `node:zlib`
+  - Module `node:zlib` u
 - Network
   - Endpoint throttling
   - ALPN
   - SNI callback
   - SSL certificates
-  - Protocol agnostic approach
-  - Fetch API
+  - Protocol agnostic approach 
+  - Fetch API u
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
-  - Websocket
+  - HTTP(S) h
+  - TCP/SSL h
+  - UDP h
+  - TLS h
+  - Websocket u
   - SSE
-  - HTTP/3 (QUIC)
+  - HTTP/3 (QUIC) h
   - Long polling
-  - REST
+  - REST u
   - RPC
   - Routing
   - DoS
-  - DDoS
+  - DDoS h
   - XSS
   - Path traversal
   - CSRF
-  - DNS
-  - SQL injection
+  - DNS h
+  - SQL injection h
   - noDelay
   - keep-alive
   - IP sticky sessions
@@ -92,28 +92,28 @@
   - Native test runner
   - Logging
   - Application configuring
-  - Testing
-  - CI/CD
-  - Readable
-  - Writable
-  - Transform
+  - Testing u
+  - CI/CD h
+  - Readable u
+  - Writable u
+  - Transform u
   - Back pressure
-  - Buffer
-  - Console
+  - Buffer h
+  - Console u
   - Inspector
 - Data access
   - Data access layer
-  - Repository
+  - Repository u
   - Active record
   - Query builder
   - Object-Relational Mapping
-  - CRUD
-  - DTO
+  - CRUD u
+  - DTO u
 - Error handling and debugging
-  - `Error`
+  - `Error` u
   - `error.cause`
   - `error.code`
-  - `error.message`
+  - `error.message` u
   - `error.stack`
   - `Error.captureStackTrace`
   - How to avoid mixins

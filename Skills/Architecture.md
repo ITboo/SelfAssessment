@@ -1,19 +1,19 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
+  - Modularity h
+  - Components u
+  - Directories h
+  - GRASP h
+  - SOLID h
+  - GoF patterns h
   - CQS
   - Leaking abstractions
   - Multiparadigm code
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
-  - Framework-agnostic
+  - Framework-agnostic k
   - Code coverage
   - Cohesion
   - Coupling
@@ -24,7 +24,7 @@
   - Flexibility
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer
+  - Isolation between layer h
   - Domain-specific language (DSL)
   - System vs applied code
   - Multilayer approach
@@ -32,7 +32,7 @@
   - Separation of concerns (SoC)
   - Metaprogramming
   - Inversion of control (IoC)
-  - Dependency injection (DI)
+  - Dependency injection (DI) h
   - Clean architecture
   - Domain-driven design (DDD)
   - Pub/sub
@@ -56,8 +56,8 @@
   - IaaS
   - PaaS
   - SaaS
-  - FaaS clouds
-  - Serverless
+  - FaaS clouds 
+  - Serverless h
   - Vendor lock-in
   - Bus factor
 - Solution architecture
@@ -70,25 +70,25 @@
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds
+  - Clouds h
   - BPMN
-  - Low-code
-  - No-code
+  - Low-code h
+  - No-code h
   - Metric
   - Metric abuse
   - ACID
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs
-  - Enterprise strategy
+  - Understanding business needs k
+  - Enterprise strategy k
   - Integration with subsystems
-  - Enterprise vision
+  - Enterprise vision k
   - Enterprise capabilities
-  - Project scope
+  - Project scope 
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices
+  - Microservices h
   - Process choreography
   - Service orchestration
   - Data warehouse

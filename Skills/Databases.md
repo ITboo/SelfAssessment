@@ -3,7 +3,7 @@
 - Theory and concepts
   - Data types
   - Performance tuning
-  - Migrations
+  - Migrations 
   - Schema versioning
   - Backup and recovery
   - Database scalability
@@ -23,12 +23,12 @@
   - Data query language (DQL)
 - Relational
   - Entity-Relationship Diagram
-  - Normal forms
-  - Indexing
-  - Primary keys
-  - Foreign keys
+  - Normal forms h
+  - Indexing h
+  - Primary keys h
+  - Foreign keys h
   - Transactions
-  - Views
+  - Views h
   - Subqueries
   - Stored procedures
   - SQL functions
@@ -36,31 +36,31 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
+  - `SELECT` k
   - `INSERT`
   - `UPDATE`
-  - `DELETE`
+  - `DELETE` k
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
+  - `ORDER BY` k
+  - `GROUP BY` k
   - `HAVING`
   - `EXISTS`
-  - `JOIN`
+  - `JOIN` k
   - `INNER JOIN`
   - `LEFT JOIN`
   - `RIGHT JOIN`
   - `UNION`
   - `DISTINCT`
-  - `WHERE`
+  - `WHERE` k
   - `LIKE`
-  - `IN`
+  - `IN` k
   - `BETWEEN`
-  - `CREATE TABLE`
+  - `CREATE TABLE` k
   - `ALTER TABLE`
   - `DROP TABLE`
-  - `PRIMARY KEY`
-  - `FOREIGN KEY`
+  - `PRIMARY KEY` k
+  - `FOREIGN KEY` k
   - `CHECK`
   - `DEFAULT`
   - `INDEX`
@@ -70,20 +70,20 @@
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL
-  - Oracle
-  - MySQL
-  - MariaDB
-  - MS SQL Server
-  - Redis
-  - Rabbit
-  - MongoDB
+  - PostgreSQL h
+  - Oracle h
+  - MySQL h
+  - MariaDB h
+  - MS SQL Server h
+  - Redis h
+  - Rabbit h
+  - MongoDB h
   - Memcached
   - Riak
   - DB2
-  - SQLite
-  - DynamoDB
-  - Firebase
+  - SQLite h
+  - DynamoDB h
+  - Firebase h
 - Data engineering
   - Data warehousing
   - Business intelligence

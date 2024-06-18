@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
-  - Non-blocking
-  - Async I/O
+  - Event loop k
+  - `try..catch` u
+  - Non-blocking k
+  - Async I/O k
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -12,33 +12,33 @@
   - kqueue
   - Completion ports
   - Event ports
-  - libuv
+  - libuv h
   - Race conditions
   - Dead locks
   - Live locks
-  - Concurrent programming
-  - Parallel programming
-  - Actor Model
-  - Thread
-  - Process
+  - Concurrent programming h
+  - Parallel programming h
+  - Actor Model h
+  - Thread h
+  - Process k
 - Async contracts
-  - Callbacks
+  - Callbacks u
   - Callback-last-error-first
   - Thenable
-  - Promise
-  - Async/await
+  - Promise u
+  - Async/await u
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
-  - Coroutine
+  - Event u
+  - Coroutine h
   - Goroutine
   - Signal
-  - Stream
+  - Stream u
   - Chain of responsibility
-  - Middleware
+  - Middleware u
   - Locks
 - Async adapters and utils
   - callbackify
@@ -49,9 +49,9 @@
 - Async abstractions interfaces
   - EventEmitter
   - Observable/Observer
-  - Readable
-  - Writable
-  - Transform
+  - Readable k
+  - Writable k
+  - Transform k
   - Async Pool
   - Async Queue
   - Async Collector
@@ -60,16 +60,16 @@
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers
-  - `setImmediate`
-  - `nextTick`
+  - `setImmediate` u
+  - `nextTick` u
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
   - Atomics
   - High resolution clock
-  - Callback hell
-  - Promise hell
+  - Callback hell h
+  - Promise hell h
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await
