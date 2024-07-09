@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-332&nbsp;/&nbsp;692&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/ITboo/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-357&nbsp;/&nbsp;700&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/ITboo/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-332&nbsp;/&nbsp;692&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/ITboo/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-357&nbsp;/&nbsp;700&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/ITboo/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/ITboo/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-332&nbsp;/&nbsp;692&nbsp;/&nbsp;731-009933?style=flat-square"></a>
+<a href="https://github.com/ITboo/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-357&nbsp;/&nbsp;700&nbsp;/&nbsp;731-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -15,30 +15,30 @@
 | Unit | Marked | Of |
 | ---- | ------ | -- |
 | [Programming](/Skills/Programming.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Concepts | `19` | `30` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Syntax and concepts | `27` | `33` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Concepts | `22` | `30` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Syntax and concepts | `29` | `33` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Types | `9` | `14` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Functions | `13` | `23` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `7` | `26` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Functions | `14` | `23` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `13` | `26` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Networking | `6` | `9` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Process and tools | `17` | `28` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `12` | `30` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `13` | `30` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Runtimes and virtual machines | `2` | `5` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `8` | `13` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standards | `7` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Language | `38` | `57` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Language | `39` | `57` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Statements | `16` | `19` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Functions | `5` | `10` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Functions | `9` | `10` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `7` | `8` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `6` | `14` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `5` | `6` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `6` | `6` |
 | [Async](/Skills/Async.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Theory | `10` | `20` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async contracts | `7` | `18` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async adapters and utils | `0` | `5` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async abstractions interfaces | `3` | `11` |
-| &nbsp;&nbsp;&nbsp;&nbsp; JavaScript & Node.js specific | `4` | `17` |
+| &nbsp;&nbsp;&nbsp;&nbsp; JavaScript & Node.js specific | `5` | `17` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Techniques | `0` | `10` |
 | [NodeJS](/Skills/NodeJS.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Internals and concepts | `6` | `9` |
@@ -52,15 +52,15 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Integrations and bindings | `0` | `16` |
 | [Paradigms](/Skills/Paradigms.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Theory | `13` | `25` |
-| &nbsp;&nbsp;&nbsp;&nbsp; OOP basics | `9` | `21` |
-| &nbsp;&nbsp;&nbsp;&nbsp; GRASP | `0` | `8` |
+| &nbsp;&nbsp;&nbsp;&nbsp; OOP basics | `12` | `21` |
+| &nbsp;&nbsp;&nbsp;&nbsp; GRASP | `1` | `8` |
 | &nbsp;&nbsp;&nbsp;&nbsp; SOLID | `5` | `5` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Patterns | `7` | `25` |
 | [Architecture](/Skills/Architecture.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `7` | `22` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `3` | `36` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Solution architecture | `3` | `18` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Enterprise architecture | `4` | `18` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Enterprise architecture | `5` | `18` |
 
 ## [JavaScript](/Skills/JavaScript.md)
 
@@ -81,22 +81,19 @@
 | Strict mode | 👂 heard | ⟶  | 🖐️ used |
 | `super` | 🤷 unknown | ⟶  | 🖐️ used |
 | `static` | 🤷 unknown | ⟶  | 👂 heard |
-| Private class fields | 👂 heard | ⟶  | 🎓 known |
-| Private class methods | 👂 heard | ⟶  | 🎓 known |
 | `for` | 🎓 known | ⟶  | 🖐️ used |
 | `for..of` | 🎓 known | ⟶  | 🖐️ used |
 | `for await` | 🤷 unknown | ⟶  | 👂 heard |
 | Functional object | 🤷 unknown | ⟶  | 👂 heard |
-| `return` | 🤷 unknown | ⟶  | 🖐️ used |
+| `return` | 🎓 known | ⟶  | 🖐️ used |
 | `Set` | 🎓 known | ⟶  | 🖐️ used |
 | Mixins | 👂 heard | ⟶  | 🎓 known |
-| `Object.assign` | 👂 heard | ⟶  | 🎓 known |
 | `Proxy` | 🤷 unknown | ⟶  | 🎓 known |
 | `WeakRef` | 🤷 unknown | ⟶  | 👂 heard |
 | `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
 | Timers | 🤷 unknown | ⟶  | 🖐️ used |
 
-Total: you have `44` of `72` skills, `28` to be upgraded, and `10` above needed
+Total: you have `47` of `72` skills, `25` to be upgraded, and `12` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
@@ -121,24 +118,17 @@ Total: you have `44` of `72` skills, `28` to be upgraded, and `10` above needed
 | `super` | 🤷 unknown | ⟶  | 🖐️ used |
 | `eval` | 🤷 unknown | ⟶  | 🎓 known |
 | `static` | 🤷 unknown | ⟶  | 🖐️ used |
-| Property descriptors | 🤷 unknown | ⟶  | 🎓 known |
 | Sealing properties | 🤷 unknown | ⟶  | 🎓 known |
 | Freezing properties | 🤷 unknown | ⟶  | 🎓 known |
-| Computed properties | 👂 heard | ⟶  | 🎓 known |
-| Instance class fields | 👂 heard | ⟶  | 🎓 known |
-| Static class fields | 👂 heard | ⟶  | 🎓 known |
-| Private class fields | 👂 heard | ⟶  | 🎓 known |
-| Private class methods | 👂 heard | ⟶  | 🎓 known |
 | `for` | 🎓 known | ⟶  | 🖐️ used |
 | `for..of` | 🎓 known | ⟶  | 🖐️ used |
 | `for await` | 🤷 unknown | ⟶  | 🖐️ used |
 | Functional object | 🤷 unknown | ⟶  | 👂 heard |
-| `return` | 🤷 unknown | ⟶  | 🖐️ used |
+| `return` | 🎓 known | ⟶  | 🖐️ used |
 | `Set` | 🎓 known | ⟶  | 🖐️ used |
 | `WeakMap` | 👂 heard | ⟶  | 🎓 known |
 | `WeakSet` | 👂 heard | ⟶  | 🎓 known |
 | Typed arrays | 🤷 unknown | ⟶  | 🎓 known |
-| `Object.assign` | 👂 heard | ⟶  | 🎓 known |
 | `Proxy` | 🤷 unknown | ⟶  | 🎓 known |
 | `Reflect` | 🤷 unknown | ⟶  | 🎓 known |
 | `Atomics` | 🤷 unknown | ⟶  | 👂 heard |
@@ -146,9 +136,9 @@ Total: you have `44` of `72` skills, `28` to be upgraded, and `10` above needed
 | `WeakRef` | 🤷 unknown | ⟶  | 👂 heard |
 | `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
 | Timers | 🤷 unknown | ⟶  | 🖐️ used |
-| V8 | 👂 heard | ⟶  | 🖐️ used |
+| V8 | 🎓 known | ⟶  | 🖐️ used |
 
-Total: you have `51` of `98` skills, `47` to be upgraded, and `7` above needed
+Total: you have `58` of `98` skills, `40` to be upgraded, and `7` above needed
 
 ## [Async](/Skills/Async.md)
 
@@ -180,7 +170,7 @@ Total: you have `51` of `98` skills, `47` to be upgraded, and `7` above needed
 | Callback hell | 👂 heard | ⟶  | 🎓 known |
 | Promise hell | 👂 heard | ⟶  | 🎓 known |
 | ref() and unref() | 🤷 unknown | ⟶  | 👂 heard |
-| Error handling in async code | 🤷 unknown | ⟶  | 🖐️ used |
+| Error handling in async code | 🎓 known | ⟶  | 🖐️ used |
 | Better stack traces with return await | 🤷 unknown | ⟶  | 🖐️ used |
 | JSON streaming serialization | 🤷 unknown | ⟶  | 👂 heard |
 | AsyncLocalStorage | 🤷 unknown | ⟶  | 👂 heard |
@@ -214,7 +204,7 @@ Total: you have `13` of `50` skills, `37` to be upgraded, and `4` above needed
 | AbortSignal | 🤷 unknown | ⟶  | 🎓 known |
 | Callback hell | 👂 heard | ⟶  | 🎓 known |
 | Promise hell | 👂 heard | ⟶  | 🎓 known |
-| Error handling in async code | 🤷 unknown | ⟶  | 🖐️ used |
+| Error handling in async code | 🎓 known | ⟶  | 🖐️ used |
 | Better stack traces with return await | 🤷 unknown | ⟶  | 🖐️ used |
 | JSON streaming serialization | 🤷 unknown | ⟶  | 👂 heard |
 | Promise.all | 🤷 unknown | ⟶  | 🖐️ used |
@@ -274,7 +264,7 @@ Total: you have `12` of `37` skills, `25` to be upgraded, and `3` above needed
 | Callback hell | 👂 heard | ⟶  | 🖐️ used |
 | Promise hell | 👂 heard | ⟶  | 🖐️ used |
 | ref() and unref() | 🤷 unknown | ⟶  | 🖐️ used |
-| Error handling in async code | 🤷 unknown | ⟶  | 🖐️ used |
+| Error handling in async code | 🎓 known | ⟶  | 🖐️ used |
 | Better stack traces with return await | 🤷 unknown | ⟶  | 🖐️ used |
 | JSON streaming serialization | 🤷 unknown | ⟶  | 🖐️ used |
 | AsyncLocalStorage | 🤷 unknown | ⟶  | 🖐️ used |

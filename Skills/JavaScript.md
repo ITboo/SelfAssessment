@@ -30,8 +30,8 @@
   - `globalThis`
   - `window`: 🖐️ used
   - Getters and setters: 👂 heard
-  - `__proto__`: 👂 heard
-  - `prototype`: 👂 heard
+  - `__proto__`: 🎓 known
+  - `prototype`: 🎓 known
   - Equality operators: 🖐️ used
   - Logical operators: 🖐️ used
   - Logical Assignment: 🖐️ used
@@ -42,7 +42,7 @@
   - `await`: 🖐️ used
   - Template literal
   - Strict mode: 👂 heard
-  - Hoisting: 👂 heard
+  - Hoisting: 🎓 known
   - `delete`
   - `in`
   - `super`
@@ -50,14 +50,14 @@
   - `static`
   - `Number.parseInt`: 🖐️ used
   - `Number.parseFloat`: 🖐️ used
-  - Property descriptors
+  - Property descriptors: 🎓 known
   - Sealing properties
   - Freezing properties
-  - Computed properties: 👂 heard
-  - Instance class fields: 👂 heard
-  - Static class fields: 👂 heard
-  - Private class fields: 👂 heard
-  - Private class methods: 👂 heard
+  - Computed properties: 🎓 known
+  - Instance class fields: 🎓 known
+  - Static class fields: 🎓 known
+  - Private class fields: 🎓 known
+  - Private class methods: 🎓 known
 - Statements
   - `if`: 🖐️ used
   - `while`: 🖐️ used
@@ -85,10 +85,10 @@
   - Function expression: 🖐️ used
   - Default parameters: 🖐️ used
   - Functional object
-  - `Function.prototype.call`
-  - `Function.prototype.bind`
-  - `Function.prototype.apply`
-  - `return`
+  - `Function.prototype.call`: 🎓 known
+  - `Function.prototype.bind`: 🎓 known
+  - `Function.prototype.apply`: 🎓 known
+  - `return`: 🎓 known
 - Data structures
   - `Array`: 🖐️ used
   - `Map`: 🖐️ used
@@ -97,7 +97,7 @@
   - `WeakSet`: 👂 heard
   - Typed arrays
   - Mixins: 👂 heard
-  - `Object.assign`: 👂 heard
+  - `Object.assign`: 🎓 known
 - Standard classes and namespaces
   - `Proxy`
   - `RegExp`: 🖐️ used
@@ -114,9 +114,9 @@
   - `console`: 🖐️ used
   - Timers
 - Infrastructure
-  - V8: 👂 heard
+  - V8: 🎓 known
   - Node.js: 🖐️ used
   - npm: 🖐️ used
   - prettier: 🖐️ used
   - MDN: 🖐️ used
-  - TC39
+  - TC39: 🎓 known
