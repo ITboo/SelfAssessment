@@ -13,9 +13,9 @@
   - Programming paradigm: 🎓 known
   - Programming language: 🎓 known
   - Contract
-  - Module k
-  - Library k
-  - Package k
+  - Module: 🎓 known
+  - Library: 🎓 known
+  - Package: 🎓 known
   - Component: 🎓 known
   - Framework: 🎓 known
   - Platform
@@ -44,7 +44,7 @@
   - Procedure: 🎓 known
   - Method: 🎓 known
   - Class: 🎓 known
-  - Prototype k
+  - Prototype: 🎓 known
   - Event: 🎓 known
   - Type: 🎓 known
   - Flag: 🎓 known
@@ -56,7 +56,7 @@
   - Regular expression: 🎓 known
   - Interface: 🎓 known
   - Namespaces
-  - Call stack k
+  - Call stack: 🎓 known
   - Naming conventions: 🎓 known
   - Coding conventions: 🎓 known
   - Camel case: 🎓 known
@@ -87,18 +87,18 @@
   - Pure function: 👂 heard
   - Lambda expression: 👂 heard
   - Side effects: 👂 heard
-  - Closure: k
+  - Closure: 🎓 known
   - Partial application
   - Currying: 👂 heard
   - Higher order
-  - Recursion: k
+  - Recursion: 🎓 known
   - Tail call optimisation
   - Callback: 🖐️ used
   - Listener: 🖐️ used
   - Composition
   - Pipe: 👂 heard
   - Memoize
-  - Wrapper k
+  - Wrapper: 🎓 known
   - Functor
   - Monad
   - Monoid
@@ -111,17 +111,17 @@
   - Enum: 🖐️ used
   - Instance: 🖐️ used
   - Object: 🖐️ used
-  - Collection k
-  - Set k
+  - Collection: 🎓 known
+  - Set: 🎓 known
   - Hash table
-  - Linked list k
+  - Linked list: 🎓 known
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue k
-  - Stack k
+  - Queue: 🎓 known
+  - Stack: 🎓 known
   - Deque
-  - Tree k
+  - Tree: 🎓 known
   - Graph
   - Iterator
   - Mutable state
@@ -135,8 +135,8 @@
   - DNS: 👂 heard
   - CDN: 👂 heard
   - CORS: 👂 heard
-  - IPv4: k
-  - IPv6: k
+  - IPv4: 🎓 known
+  - IPv6: 🎓 known
   - NAT
   - URL: 🎓 known
   - URN
@@ -182,7 +182,7 @@
   - Silver bullet
   - Not invented here: 🎓 known
   - Dead code: 🎓 known
-  - Unreachable code k
+  - Unreachable code: 🎓 known
   - Duplicate code: 🎓 known
   - Premature optimization
   - Micro-optimization
