@@ -13,9 +13,9 @@
   - Programming paradigm: 🎓 known
   - Programming language: 🎓 known
   - Contract
-  - Module
-  - Library
-  - Package
+  - Module k
+  - Library k
+  - Package k
   - Component: 🎓 known
   - Framework: 🎓 known
   - Platform
@@ -44,7 +44,7 @@
   - Procedure: 🎓 known
   - Method: 🎓 known
   - Class: 🎓 known
-  - Prototype
+  - Prototype k
   - Event: 🎓 known
   - Type: 🎓 known
   - Flag: 🎓 known
@@ -56,7 +56,7 @@
   - Regular expression: 🎓 known
   - Interface: 🎓 known
   - Namespaces
-  - Call stack
+  - Call stack k
   - Naming conventions: 🎓 known
   - Coding conventions: 🎓 known
   - Camel case: 🎓 known
@@ -87,18 +87,18 @@
   - Pure function: 👂 heard
   - Lambda expression: 👂 heard
   - Side effects: 👂 heard
-  - Closure: 👂 heard
+  - Closure: k
   - Partial application
   - Currying: 👂 heard
   - Higher order
-  - Recursion: 👂 heard
+  - Recursion: k
   - Tail call optimisation
   - Callback: 🖐️ used
   - Listener: 🖐️ used
   - Composition
   - Pipe: 👂 heard
   - Memoize
-  - Wrapper
+  - Wrapper k
   - Functor
   - Monad
   - Monoid
@@ -111,17 +111,17 @@
   - Enum: 🖐️ used
   - Instance: 🖐️ used
   - Object: 🖐️ used
-  - Collection
-  - Set
+  - Collection k
+  - Set k
   - Hash table
-  - Linked list
+  - Linked list k
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
+  - Queue k
+  - Stack k
   - Deque
-  - Tree
+  - Tree k
   - Graph
   - Iterator
   - Mutable state
@@ -135,8 +135,8 @@
   - DNS: 👂 heard
   - CDN: 👂 heard
   - CORS: 👂 heard
-  - IPv4: 👂 heard
-  - IPv6: 👂 heard
+  - IPv4: k
+  - IPv6: k
   - NAT
   - URL: 🎓 known
   - URN
@@ -182,7 +182,7 @@
   - Silver bullet
   - Not invented here: 🎓 known
   - Dead code: 🎓 known
-  - Unreachable code
+  - Unreachable code k
   - Duplicate code: 🎓 known
   - Premature optimization
   - Micro-optimization

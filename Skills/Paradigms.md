@@ -27,31 +27,31 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor: 👂 heard
+  - Constructor: u
   - Operator `new`: 🖐️ used
-  - Static method: 👂 heard
-  - Method
-  - Async method
+  - Static method: u
+  - Method  u
+  - Async method u
   - Getters, Setters: 👂 heard
-  - Public fields: 👂 heard
-  - Private fields: 👂 heard
+  - Public fields: u
+  - Private fields: u
   - Field declarations
-  - Inheritance: 👂 heard
-  - Parent class: 👂 heard
+  - Inheritance: u
+  - Parent class: u
   - Polymorphism
   - Abstract class
   - Interface: 🖐️ used
   - Encapsulation
   - Hidden class
   - Object form
-  - Instance
+  - Instance u
   - Introspection
   - Reflection
   - The diamond problem
 - GRASP
   - Information expert
   - Creator
-  - Controller
+  - Controller k
   - Indirection
   - Low coupling
   - High cohesion

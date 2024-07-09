@@ -84,7 +84,7 @@
   - Enterprise strategy: 🎓 known
   - Integration with subsystems
   - Enterprise vision: 🎓 known
-  - Enterprise capabilities
+  - Enterprise capabilities k
   - Project scope
   - Enterprise service bus
   - Service-oriented architecture
