@@ -23,12 +23,12 @@
   - Data query language (DQL)
 - Relational
   - Entity-Relationship Diagram
-  - Normal forms
-  - Indexing
-  - Primary keys
-  - Foreign keys
+  - Normal forms: 👂 heard
+  - Indexing: 👂 heard
+  - Primary keys: 👂 heard
+  - Foreign keys: 👂 heard
   - Transactions
-  - Views
+  - Views: 👂 heard
   - Subqueries
   - Stored procedures
   - SQL functions
@@ -36,31 +36,31 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
+  - `SELECT`: 🎓 known
   - `INSERT`
   - `UPDATE`
-  - `DELETE`
+  - `DELETE`: 🎓 known
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
+  - `ORDER BY`: 🎓 known
+  - `GROUP BY`: 🎓 known
   - `HAVING`
   - `EXISTS`
-  - `JOIN`
+  - `JOIN`: 🎓 known
   - `INNER JOIN`
   - `LEFT JOIN`
   - `RIGHT JOIN`
   - `UNION`
   - `DISTINCT`
-  - `WHERE`
+  - `WHERE`: 🎓 known
   - `LIKE`
-  - `IN`
+  - `IN`: 🎓 known
   - `BETWEEN`
-  - `CREATE TABLE`
+  - `CREATE TABLE`: 🎓 known
   - `ALTER TABLE`
   - `DROP TABLE`
-  - `PRIMARY KEY`
-  - `FOREIGN KEY`
+  - `PRIMARY KEY`: 🎓 known
+  - `FOREIGN KEY`: 🎓 known
   - `CHECK`
   - `DEFAULT`
   - `INDEX`
@@ -70,20 +70,20 @@
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL
-  - Oracle
-  - MySQL
-  - MariaDB
-  - MS SQL Server
-  - Redis
-  - Rabbit
-  - MongoDB
+  - PostgreSQL: 👂 heard
+  - Oracle: 👂 heard
+  - MySQL: 👂 heard
+  - MariaDB: 👂 heard
+  - MS SQL Server: 👂 heard
+  - Redis: 👂 heard
+  - Rabbit: 👂 heard
+  - MongoDB: 👂 heard
   - Memcached
   - Riak
   - DB2
-  - SQLite
-  - DynamoDB
-  - Firebase
+  - SQLite: 👂 heard
+  - DynamoDB: 👂 heard
+  - Firebase: 👂 heard
 - Data engineering
   - Data warehousing
   - Business intelligence
