@@ -1,40 +1,40 @@
 ## Architecture
 
 - Application structure
-  - Modularity: 👂 heard
-  - Components: 🖐️ used
-  - Directories: 👂 heard
-  - GRASP: 👂 heard
-  - SOLID: 👂 heard
-  - GoF patterns: 👂 heard
-  - CQS
+  - Modularity: 🎓 known
+  - Components: 🎓 known
+  - Directories: 🎓 known
+  - GRASP: 🎓 known
+  - SOLID: 🎓 known
+  - GoF patterns: 🎓 known
+  - CQS 🎓 known
   - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
-  - Platform-agnostic
-  - Transport-agnostic
+  - Multiparadigm code 🎓 known
+  - Contract programming 🎓 known
+  - Platform-agnostic 🎓 known
+  - Transport-agnostic 🎓 known
   - Framework-agnostic: 🎓 known
   - Code coverage
-  - Cohesion
-  - Coupling
+  - Cohesion 🎓 known
+  - Coupling 🎓 known
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
-  - Law of Demeter (LoD)
+  - Reliability 🎓 known
+  - Quality 🎓 known 
+  - Availability 🎓 known
+  - Flexibility 🎓 known
+  - Law of Demeter (LoD) 🎓 known
 - Application architecture
-  - Isolation between layer: 👂 heard
-  - Domain-specific language (DSL)
-  - System vs applied code
+  - Isolation between layer: 🎓 known
+  - Domain-specific language (DSL) 🎓 known
+  - System vs applied code 🎓 known
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
   - Metaprogramming
   - Inversion of control (IoC)
-  - Dependency injection (DI): 👂 heard
+  - Dependency injection (DI): 🎓 known
   - Clean architecture
-  - Domain-driven design (DDD)
+  - Domain-driven design (DDD) 🎓 known
   - Pub/sub
   - Message brocker
   - Agent
@@ -57,7 +57,7 @@
   - PaaS
   - SaaS
   - FaaS clouds
-  - Serverless: 👂 heard
+  - Serverless: 🎓 known
   - Vendor lock-in
   - Bus factor
 - Solution architecture
@@ -70,10 +70,10 @@
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds: 👂 heard
+  - Clouds: 🎓 known
   - BPMN
-  - Low-code: 👂 heard
-  - No-code: 👂 heard
+  - Low-code: 🎓 known
+  - No-code: 🎓 known
   - Metric
   - Metric abuse
   - ACID
@@ -88,7 +88,7 @@
   - Project scope
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices: 👂 heard
+  - Microservices: 🎓 known
   - Process choreography
   - Service orchestration
   - Data warehouse
@@ -96,5 +96,5 @@
   - OLAP
   - OLTP
   - Conways Law
-  - Quality assurance
+  - Quality assurance 🎓 known
   - Engineering Hygiene
