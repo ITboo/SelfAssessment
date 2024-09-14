@@ -16,8 +16,8 @@
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming
+  - Domain-specific languages 🎓 known
+  - Multi-paradigm programming 🎓 known
   - Metaprogramming: 👂 heard
   - Actor model: 👂 heard
   - Lambda calculus
@@ -68,7 +68,7 @@
   - Factory Method: 👂 heard
   - Abstract Factory: 👂 heard
   - Adapter: 👂 heard
-  - Observer: 👂 heard
+  - Observer: 🎓 known
   - Strategy: 👂 heard
   - Facade
   - Proxy

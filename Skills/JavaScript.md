@@ -22,16 +22,16 @@
   - Iterators
   - Async generator
   - Async iterator
-  - Chaining
-  - Optional chaining
+  - Chaining 🖐️ used
+  - Optional chaining 🖐️ used
   - IIFE: 👂 heard
-  - Async IIFE
-  - `global`
+  - Async IIFE 🖐️ used
+  - `global` 🖐️ used
   - `globalThis`
   - `window`: 🖐️ used
-  - Getters and setters: 👂 heard
-  - `__proto__`: 🎓 known
-  - `prototype`: 🎓 known
+  - Getters and setters: 🖐️ used
+  - `__proto__`: 🖐️ used
+  - `prototype`: 🖐️ used
   - Equality operators: 🖐️ used
   - Logical operators: 🖐️ used
   - Logical Assignment: 🖐️ used
@@ -62,10 +62,10 @@
   - `if`: 🖐️ used
   - `while`: 🖐️ used
   - `do..while`: 🖐️ used
-  - `for`: 🎓 known
+  - `for`: 🖐️ used
   - `for..in`: 🖐️ used
-  - `for..of`: 🎓 known
-  - `for await`
+  - `for..of`: 🖐️ used
+  - `for await` 🖐️ used
   - `throw`: 🖐️ used
   - `break`: 🖐️ used
   - `continue`: 🖐️ used
@@ -76,7 +76,7 @@
   - `switch`: 🖐️ used
   - `class`: 🖐️ used
   - `extends`: 🖐️ used
-  - `with`
+  - `with`: 🖐️ used
   - `new`: 🖐️ used
 - Functions
   - Arrow function: 🖐️ used
@@ -88,14 +88,14 @@
   - `Function.prototype.call`: 🎓 known
   - `Function.prototype.bind`: 🎓 known
   - `Function.prototype.apply`: 🎓 known
-  - `return`: 🎓 known
+  - `return`: 🖐️ used
 - Data structures
   - `Array`: 🖐️ used
   - `Map`: 🖐️ used
   - `Set`: 🎓 known
   - `WeakMap`: 👂 heard
   - `WeakSet`: 👂 heard
-  - Typed arrays
+  - Typed arrays: 🎓 known
   - Mixins: 👂 heard
   - `Object.assign`: 🎓 known
 - Standard classes and namespaces
@@ -106,15 +106,15 @@
   - `Reflect`
   - `Error`: 🖐️ used
   - `Atomics`
-  - `JSON`
+  - `JSON` 🖐️ used
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`: 🖐️ used
   - `console`: 🖐️ used
-  - Timers
+  - Timers 🖐️ used
 - Infrastructure
-  - V8: 🎓 known
+  - V8: 🖐️ used
   - Node.js: 🖐️ used
   - npm: 🖐️ used
   - prettier: 🖐️ used
