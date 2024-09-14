@@ -7,26 +7,26 @@
   - GRASP: 🎓 known
   - SOLID: 🎓 known
   - GoF patterns: 🎓 known
-  - CQS 🎓 known
+  - CQS: 🎓 known
   - Leaking abstractions
-  - Multiparadigm code 🎓 known
-  - Contract programming 🎓 known
-  - Platform-agnostic 🎓 known
-  - Transport-agnostic 🎓 known
+  - Multiparadigm code: 🎓 known
+  - Contract programming: 🎓 known
+  - Platform-agnostic: 🎓 known
+  - Transport-agnostic: 🎓 known
   - Framework-agnostic: 🎓 known
   - Code coverage
-  - Cohesion 🎓 known
-  - Coupling 🎓 known
+  - Cohesion: 🎓 known
+  - Coupling: 🎓 known
   - Cyclomatic complexity
-  - Reliability 🎓 known
-  - Quality 🎓 known 
-  - Availability 🎓 known
-  - Flexibility 🎓 known
-  - Law of Demeter (LoD) 🎓 known
+  - Reliability: 🎓 known
+  - Quality: 🎓 known
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
+  - Law of Demeter (LoD): 🎓 known
 - Application architecture
   - Isolation between layer: 🎓 known
-  - Domain-specific language (DSL) 🎓 known
-  - System vs applied code 🎓 known
+  - Domain-specific language (DSL): 🎓 known
+  - System vs applied code: 🎓 known
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
@@ -34,7 +34,7 @@
   - Inversion of control (IoC)
   - Dependency injection (DI): 🎓 known
   - Clean architecture
-  - Domain-driven design (DDD) 🎓 known
+  - Domain-driven design (DDD): 🎓 known
   - Pub/sub
   - Message brocker
   - Agent
@@ -96,5 +96,5 @@
   - OLAP
   - OLTP
   - Conways Law
-  - Quality assurance 🎓 known
+  - Quality assurance: 🎓 known
   - Engineering Hygiene

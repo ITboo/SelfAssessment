@@ -12,13 +12,13 @@
   - Programm: 🎓 known
   - Programming paradigm: 🎓 known
   - Programming language: 🎓 known
-  - Contract 🎓 known
+  - Contract: 🎓 known
   - Module: 🎓 known
   - Library: 🎓 known
   - Package: 🎓 known
   - Component: 🎓 known
   - Framework: 🎓 known
-  - Platform 🎓 known
+  - Platform: 🎓 known
   - Source code: 🎓 known
   - Object code
   - Machine code: 🎓 known
@@ -39,7 +39,7 @@
   - Scalar: 🎓 known
   - Literal: 🎓 known
   - Expression: 🎓 known
-  - Heap 🎓 known
+  - Heap: 🎓 known
   - Function: 🎓 known
   - Procedure: 🎓 known
   - Method: 🎓 known
@@ -55,7 +55,7 @@
   - Assignment: 🎓 known
   - Regular expression: 🎓 known
   - Interface: 🎓 known
-  - Namespaces 🎓 known
+  - Namespaces: 🎓 known
   - Call stack: 🎓 known
   - Naming conventions: 🎓 known
   - Coding conventions: 🎓 known
@@ -97,7 +97,7 @@
   - Listener: 🖐️ used
   - Composition
   - Pipe: 👂 heard
-  - Memoize 👂 heard
+  - Memoize: 👂 heard
   - Wrapper: 🎓 known
   - Functor
   - Monad
@@ -113,7 +113,7 @@
   - Object: 🖐️ used
   - Collection: 🎓 known
   - Set: 🎓 known
-  - Hash table 👂 heard
+  - Hash table: 👂 heard
   - Linked list: 🎓 known
   - Doubly list
   - Unrolled list
@@ -122,7 +122,7 @@
   - Stack: 🎓 known
   - Deque
   - Tree: 🎓 known
-  - Graph 👂 heard
+  - Graph: 👂 heard
   - Iterator
   - Mutable state
   - Immutable state
@@ -145,7 +145,7 @@
   - Compiler: 🎓 known
   - Just-in-time compilation: 🎓 known
   - Ahead-of-time compilation: 🎓 known
-  - Transpiler 🎓 known
+  - Transpiler: 🎓 known
   - Linter: 🖐️ used
   - Polyfill: 👂 heard
   - Interpreter: 👂 heard

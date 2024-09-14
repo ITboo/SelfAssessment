@@ -16,8 +16,8 @@
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
-  - Domain-specific languages 🎓 known
-  - Multi-paradigm programming 🎓 known
+  - Domain-specific languages: 🎓 known
+  - Multi-paradigm programming: 🎓 known
   - Metaprogramming: 👂 heard
   - Actor model: 👂 heard
   - Lambda calculus

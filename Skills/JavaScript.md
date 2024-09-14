@@ -22,11 +22,11 @@
   - Iterators
   - Async generator
   - Async iterator
-  - Chaining 🖐️ used
-  - Optional chaining 🖐️ used
+  - Chaining: 🖐️ used
+  - Optional chaining: 🖐️ used
   - IIFE: 👂 heard
-  - Async IIFE 🖐️ used
-  - `global` 🖐️ used
+  - Async IIFE: 🖐️ used
+  - `global`: 🖐️ used
   - `globalThis`
   - `window`: 🖐️ used
   - Getters and setters: 🖐️ used
@@ -65,7 +65,7 @@
   - `for`: 🖐️ used
   - `for..in`: 🖐️ used
   - `for..of`: 🖐️ used
-  - `for await` 🖐️ used
+  - `for await`: 🖐️ used
   - `throw`: 🖐️ used
   - `break`: 🖐️ used
   - `continue`: 🖐️ used
@@ -106,13 +106,13 @@
   - `Reflect`
   - `Error`: 🖐️ used
   - `Atomics`
-  - `JSON` 🖐️ used
+  - `JSON`: 🖐️ used
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`: 🖐️ used
   - `console`: 🖐️ used
-  - Timers 🖐️ used
+  - Timers: 🖐️ used
 - Infrastructure
   - V8: 🖐️ used
   - Node.js: 🖐️ used

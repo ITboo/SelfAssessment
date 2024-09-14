@@ -34,7 +34,7 @@
   - Watch filesystem changes with --watch: 🖐️ used
 - Internal API
   - Streams API: 🖐️ used
-  - Web Streams API 🖐️ used
+  - Web Streams API: 🖐️ used
   - Crypto API: 🖐️ used
   - Password hashing with crypto.scrypt: 🖐️ used
   - Web Crypto API
@@ -57,7 +57,7 @@
   - Module `node:url` vs `new URL`: 🖐️ used
   - Module `node:assert`
   - Internationalization
-  - Blob, File, Buffer, module `node:buffer` 👂 heard
+  - Blob, File, Buffer, module `node:buffer`: 👂 heard
   - Module `node:zlib`: 🖐️ used
 - Network
   - Endpoint throttling
@@ -77,7 +77,7 @@
   - Long polling
   - REST: 🖐️ used
   - RPC
-  - Routing 🖐️ used
+  - Routing: 🖐️ used
   - DoS
   - DDoS: 👂 heard
   - XSS
@@ -121,7 +121,7 @@
   - Heap dump
   - Debugging tools
   - Flame graph
-  - Memory leaks 👂 heard
+  - Memory leaks: 👂 heard
   - Resource leaks
   - Data race
 - Integrations and bindings

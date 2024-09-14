@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-357&nbsp;/&nbsp;700&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/ITboo/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-396&nbsp;/&nbsp;700&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/ITboo/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-357&nbsp;/&nbsp;700&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/ITboo/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-396&nbsp;/&nbsp;700&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/ITboo/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/ITboo/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-357&nbsp;/&nbsp;700&nbsp;/&nbsp;731-009933?style=flat-square"></a>
+<a href="https://github.com/ITboo/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-396&nbsp;/&nbsp;700&nbsp;/&nbsp;731-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -15,23 +15,23 @@
 | Unit | Marked | Of |
 | ---- | ------ | -- |
 | [Programming](/Skills/Programming.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Concepts | `22` | `30` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Syntax and concepts | `29` | `33` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Concepts | `24` | `30` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Syntax and concepts | `31` | `33` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Types | `9` | `14` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Functions | `14` | `23` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `13` | `26` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Functions | `15` | `23` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `15` | `26` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Networking | `6` | `9` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Process and tools | `17` | `28` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Process and tools | `18` | `28` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `13` | `30` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Runtimes and virtual machines | `2` | `5` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `8` | `13` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standards | `7` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Language | `39` | `57` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Statements | `16` | `19` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Language | `43` | `57` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Statements | `18` | `19` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `9` | `10` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `7` | `8` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `6` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `8` | `8` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `8` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `6` | `6` |
 | [Async](/Skills/Async.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Theory | `10` | `20` |
@@ -44,23 +44,23 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Internals and concepts | `6` | `9` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Modularity, layers and dependencies | `9` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Environment | `4` | `6` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Internal API | `11` | `26` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Network | `11` | `28` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Internal API | `13` | `26` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Network | `12` | `28` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Technique and tools | `7` | `12` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data access | `3` | `7` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Error handling and debugging | `2` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Error handling and debugging | `3` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Integrations and bindings | `0` | `16` |
 | [Paradigms](/Skills/Paradigms.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Theory | `13` | `25` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Theory | `15` | `25` |
 | &nbsp;&nbsp;&nbsp;&nbsp; OOP basics | `12` | `21` |
 | &nbsp;&nbsp;&nbsp;&nbsp; GRASP | `1` | `8` |
 | &nbsp;&nbsp;&nbsp;&nbsp; SOLID | `5` | `5` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Patterns | `7` | `25` |
 | [Architecture](/Skills/Architecture.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `7` | `22` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `3` | `36` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `19` | `22` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `6` | `36` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Solution architecture | `3` | `18` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Enterprise architecture | `5` | `18` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Enterprise architecture | `6` | `18` |
 
 ## [JavaScript](/Skills/JavaScript.md)
 
@@ -71,29 +71,20 @@
 | Iterators | 🤷 unknown | ⟶  | 👂 heard |
 | Async generator | 🤷 unknown | ⟶  | 👂 heard |
 | Async iterator | 🤷 unknown | ⟶  | 👂 heard |
-| Chaining | 🤷 unknown | ⟶  | 👂 heard |
-| Optional chaining | 🤷 unknown | ⟶  | 👂 heard |
-| Async IIFE | 🤷 unknown | ⟶  | 👂 heard |
-| `global` | 🤷 unknown | ⟶  | 🎓 known |
 | `globalThis` | 🤷 unknown | ⟶  | 👂 heard |
 | `yield` | 🤷 unknown | ⟶  | 👂 heard |
 | Template literal | 🤷 unknown | ⟶  | 🖐️ used |
 | Strict mode | 👂 heard | ⟶  | 🖐️ used |
 | `super` | 🤷 unknown | ⟶  | 🖐️ used |
 | `static` | 🤷 unknown | ⟶  | 👂 heard |
-| `for` | 🎓 known | ⟶  | 🖐️ used |
-| `for..of` | 🎓 known | ⟶  | 🖐️ used |
-| `for await` | 🤷 unknown | ⟶  | 👂 heard |
 | Functional object | 🤷 unknown | ⟶  | 👂 heard |
-| `return` | 🎓 known | ⟶  | 🖐️ used |
 | `Set` | 🎓 known | ⟶  | 🖐️ used |
 | Mixins | 👂 heard | ⟶  | 🎓 known |
 | `Proxy` | 🤷 unknown | ⟶  | 🎓 known |
 | `WeakRef` | 🤷 unknown | ⟶  | 👂 heard |
 | `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
-| Timers | 🤷 unknown | ⟶  | 🖐️ used |
 
-Total: you have `47` of `72` skills, `25` to be upgraded, and `12` above needed
+Total: you have `56` of `72` skills, `16` to be upgraded, and `18` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
@@ -104,12 +95,8 @@ Total: you have `47` of `72` skills, `25` to be upgraded, and `12` above needed
 | Iterators | 🤷 unknown | ⟶  | 🖐️ used |
 | Async generator | 🤷 unknown | ⟶  | 🖐️ used |
 | Async iterator | 🤷 unknown | ⟶  | 🖐️ used |
-| Chaining | 🤷 unknown | ⟶  | 🖐️ used |
 | IIFE | 👂 heard | ⟶  | 🖐️ used |
-| Async IIFE | 🤷 unknown | ⟶  | 🖐️ used |
-| `global` | 🤷 unknown | ⟶  | 🖐️ used |
 | `globalThis` | 🤷 unknown | ⟶  | 🖐️ used |
-| Getters and setters | 👂 heard | ⟶  | 🖐️ used |
 | `yield` | 🤷 unknown | ⟶  | 🖐️ used |
 | Template literal | 🤷 unknown | ⟶  | 🖐️ used |
 | Strict mode | 👂 heard | ⟶  | 🖐️ used |
@@ -120,25 +107,17 @@ Total: you have `47` of `72` skills, `25` to be upgraded, and `12` above needed
 | `static` | 🤷 unknown | ⟶  | 🖐️ used |
 | Sealing properties | 🤷 unknown | ⟶  | 🎓 known |
 | Freezing properties | 🤷 unknown | ⟶  | 🎓 known |
-| `for` | 🎓 known | ⟶  | 🖐️ used |
-| `for..of` | 🎓 known | ⟶  | 🖐️ used |
-| `for await` | 🤷 unknown | ⟶  | 🖐️ used |
 | Functional object | 🤷 unknown | ⟶  | 👂 heard |
-| `return` | 🎓 known | ⟶  | 🖐️ used |
 | `Set` | 🎓 known | ⟶  | 🖐️ used |
 | `WeakMap` | 👂 heard | ⟶  | 🎓 known |
 | `WeakSet` | 👂 heard | ⟶  | 🎓 known |
-| Typed arrays | 🤷 unknown | ⟶  | 🎓 known |
 | `Proxy` | 🤷 unknown | ⟶  | 🎓 known |
 | `Reflect` | 🤷 unknown | ⟶  | 🎓 known |
 | `Atomics` | 🤷 unknown | ⟶  | 👂 heard |
-| `JSON` | 🤷 unknown | ⟶  | 🖐️ used |
 | `WeakRef` | 🤷 unknown | ⟶  | 👂 heard |
 | `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
-| Timers | 🤷 unknown | ⟶  | 🖐️ used |
-| V8 | 🎓 known | ⟶  | 🖐️ used |
 
-Total: you have `58` of `98` skills, `40` to be upgraded, and `7` above needed
+Total: you have `70` of `98` skills, `28` to be upgraded, and `7` above needed
 
 ## [Async](/Skills/Async.md)
 
@@ -288,29 +267,29 @@ Total: you have `13` of `75` skills, `62` to be upgraded, and `0` above needed
 | API and domain logic developer | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `29` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `32` above needed
 
 | Enterprise applications | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `37` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `40` above needed
 
 | Real-Time, gamedev, messaging | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `31` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `33` above needed
 
 | Web and Frontend | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `14` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `16` above needed
 
 | Fullstack development | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `28` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `32` above needed
 
 | Platform/system development | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `44` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `48` above needed
